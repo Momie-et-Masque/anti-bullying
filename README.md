@@ -2,4 +2,6 @@
 
 **CHOOSE KINDNESS, IT'S CONTAGIOUS**
 
-*The most effective catchphrases are short, memorable, and convey a strong message.*
+The aim of our project is to sensibilize students to bullying via a website that gives instructions for those needing help.
+
+*Project by Constantin KIFFER and Nathan GREFF (Jean XXIII)*
